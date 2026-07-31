@@ -1,18 +1,10 @@
-# Hi there! I'm Martín Aldavez 👋
+# Hi there! 
 
 <img width="400" height="400" alt="bocchi-avatar" src="https://github.com/user-attachments/assets/a5f9006b-6f8e-4636-957d-86ef97ff6e3e" />
 
 **Information Systems Engineering Student**
 
-Currently focusing on software development, web technologies, and systems engineering.
-
----
-
-### 📌 About Me
-
-- 🎓 **Education:** Information Systems Engineering Student at UTN
-- 🌱 **Learning & Focus:** Software development, web technologies, and UI/UX design
-- 💬 **Ask me about:** Technology, software engineering, and web development
+Currently studying software engineering, web development, and digital design.
 
 ---
 
