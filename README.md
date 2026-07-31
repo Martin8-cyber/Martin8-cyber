@@ -1,5 +1,7 @@
 # Hi there! I'm Martín Aldavez 👋
 
+<img width="1200" height="1200" alt="bocchi-avatar" src="https://github.com/user-attachments/assets/a5f9006b-6f8e-4636-957d-86ef97ff6e3e" />
+
 **Information Systems Engineering Student**
 
 Currently focusing on software development, web technologies, and systems engineering.
