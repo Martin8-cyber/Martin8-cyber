@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! I'm Martín Aldavez 👋
 
-<!--
-**Martin8-cyber/Martin8-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Information Systems Engineering Student**
 
-Here are some ideas to get you started:
+Currently focusing on software development, web technologies, and systems engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 About Me
+
+- 🎓 **Education:** Information Systems Engineering Student at UTN
+- 🌱 **Learning & Focus:** Software development, web technologies, and UI/UX design
+- 💬 **Ask me about:** Technology, software engineering, and web development
