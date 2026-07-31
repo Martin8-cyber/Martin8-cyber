@@ -1,5 +1,5 @@
 # Hi there! I'm Martín Aldavez 👋
-![bocchi]([[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://i.pinimg.com/1200x/4b/fc/40/4bfc40a393049f617d9f1e2fe3dc00da.jpg)](https://i.pinimg.com/236x/97/c7/23/97c723b24d2fce75ad51975b6b251128.jpg))
+
 **Information Systems Engineering Student**
 
 Currently focusing on software development, web technologies, and systems engineering.
